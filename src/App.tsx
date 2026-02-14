@@ -169,7 +169,7 @@ export default function App() {
 
         {!success ? (
           <>
-            <h1 className="title">내 발렌타인이 되줄래? 두쫀쿠 줄게 💘</h1>
+            <h1 className="title">내 발렌타인이 되줄래?<br/>💘</h1>
             <p className="guide" aria-live="polite">
               예를 5번 누르면 성공! ({yesClicks}/5)
             </p>
